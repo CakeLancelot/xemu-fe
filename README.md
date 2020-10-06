@@ -5,5 +5,5 @@ A script for automatically editing your xemu config for use with various Fronten
 1. Download the latest release from [here](https://github.com/CakeLancelot/xemu-fe/releases/).
 2. Extract the contents of the zip to your xemu folder. All three files (xemu-fe.bat, inittool.exe and camlrt.dll) should be present alongside xemu.exe
 3. Create a new emulator in Launchbox (or whatever frontend you wish to use this with). Here is an example config for Launchbox:
-![Example of Launchbox Configuration](LaunchboxExample.png)
+![Example of Launchbox Configuration](Launchbox-Example.png)
 4. That's it! Add some games to your Frontend and give it a try!
