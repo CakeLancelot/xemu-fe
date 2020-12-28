@@ -1,3 +1,6 @@
+## NOTE: this script is largely outdated, since xemu now has a built-in ``-dvd-path`` option.
+Do not expect any future support or updates - I'm just leaving the repo here for archival sake.
+
 # xemu-fe
 A script for automatically editing your xemu config for use with various Frontends. Your previous config will automatically be copied back once you close the emulator. This was made with LaunchBox in mind, but should work with any Frontend. Currently only a Windows script is available, though it could easily be adapted to BASH for use on Linux/Unix/MacOS.
 
